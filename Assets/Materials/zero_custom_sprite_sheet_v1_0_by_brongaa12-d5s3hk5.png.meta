@@ -1,0 +1,2938 @@
+fileFormatVersion: 2
+guid: fb25e8fec176dd64cb09b000df672911
+timeCreated: 1485010052
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_0
+    21300002: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_1
+    21300004: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_2
+    21300006: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_3
+    21300008: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_4
+    21300010: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_5
+    21300012: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_6
+    21300014: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_7
+    21300016: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_8
+    21300018: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_9
+    21300020: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_10
+    21300022: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_11
+    21300024: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_12
+    21300026: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_13
+    21300028: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_14
+    21300030: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_15
+    21300032: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_16
+    21300034: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_17
+    21300036: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_18
+    21300038: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_19
+    21300040: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_20
+    21300042: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_21
+    21300044: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_22
+    21300046: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_23
+    21300048: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_24
+    21300050: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_25
+    21300052: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_26
+    21300054: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_27
+    21300056: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_28
+    21300058: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_29
+    21300060: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_30
+    21300062: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_31
+    21300064: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_32
+    21300066: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_33
+    21300068: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_34
+    21300070: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_35
+    21300072: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_36
+    21300074: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_37
+    21300076: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_38
+    21300078: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_39
+    21300080: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_40
+    21300082: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_41
+    21300084: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_42
+    21300086: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_43
+    21300088: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_44
+    21300090: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_45
+    21300092: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_46
+    21300094: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_47
+    21300096: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_48
+    21300098: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_49
+    21300100: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_50
+    21300102: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_51
+    21300104: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_52
+    21300106: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_53
+    21300108: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_54
+    21300110: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_55
+    21300112: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_56
+    21300114: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_57
+    21300116: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_58
+    21300118: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_59
+    21300120: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_60
+    21300122: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_61
+    21300124: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_62
+    21300126: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_63
+    21300128: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_64
+    21300130: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_65
+    21300132: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_66
+    21300134: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_67
+    21300136: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_68
+    21300138: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_69
+    21300140: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_70
+    21300142: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_71
+    21300144: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_72
+    21300146: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_73
+    21300148: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_74
+    21300150: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_75
+    21300152: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_76
+    21300154: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_77
+    21300156: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_78
+    21300158: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_79
+    21300160: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_80
+    21300162: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_81
+    21300164: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_82
+    21300166: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_83
+    21300168: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_84
+    21300170: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_85
+    21300172: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_86
+    21300174: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_87
+    21300176: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_88
+    21300178: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_89
+    21300180: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_90
+    21300182: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_91
+    21300184: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_92
+    21300186: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_93
+    21300188: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_94
+    21300190: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_95
+    21300192: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_96
+    21300194: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_97
+    21300196: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_98
+    21300198: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_99
+    21300200: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_100
+    21300202: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_101
+    21300204: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_102
+    21300206: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_103
+    21300208: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_104
+    21300210: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_105
+    21300212: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_106
+    21300214: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_107
+    21300216: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_108
+    21300218: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_109
+    21300220: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_110
+    21300222: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_111
+    21300224: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_112
+    21300226: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_113
+    21300228: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_114
+    21300230: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_115
+    21300232: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_116
+    21300234: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_117
+    21300236: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_118
+    21300238: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_119
+    21300240: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_120
+    21300242: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_121
+    21300244: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_122
+    21300246: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_123
+    21300248: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_124
+    21300250: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_125
+    21300252: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_126
+    21300254: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_127
+    21300256: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_128
+    21300258: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_129
+    21300260: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_130
+    21300262: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_131
+    21300264: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_132
+    21300266: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_133
+    21300268: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_134
+    21300270: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_135
+    21300272: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_136
+    21300274: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_137
+    21300276: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_138
+    21300278: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_139
+    21300280: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_140
+    21300282: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_141
+    21300284: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_142
+    21300286: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_143
+    21300288: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_144
+    21300290: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_145
+    21300292: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_146
+    21300294: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_147
+    21300296: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_148
+    21300298: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_149
+    21300300: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_150
+    21300302: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_151
+    21300304: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_152
+    21300306: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_153
+    21300308: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_154
+    21300310: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_155
+    21300312: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_156
+    21300314: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_157
+    21300316: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_158
+    21300318: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_159
+    21300320: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_160
+    21300322: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_161
+    21300324: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_162
+    21300326: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_163
+    21300328: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_164
+    21300330: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_165
+    21300332: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_166
+    21300334: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_167
+    21300336: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_168
+    21300338: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_169
+    21300340: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_170
+    21300342: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_171
+    21300344: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_172
+    21300346: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_173
+    21300348: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_174
+    21300350: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_175
+    21300352: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_176
+    21300354: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_177
+    21300356: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_178
+    21300358: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_179
+    21300360: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_180
+    21300362: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_181
+    21300364: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_182
+    21300366: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_183
+    21300368: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_184
+    21300370: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_185
+    21300372: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_186
+    21300374: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_187
+    21300376: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_188
+    21300378: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_189
+    21300380: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_190
+    21300382: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_191
+    21300384: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_192
+    21300386: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_193
+    21300388: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_194
+    21300390: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_195
+    21300392: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_196
+    21300394: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_197
+    21300396: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_198
+    21300398: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_199
+    21300400: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_200
+    21300402: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_201
+    21300404: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_202
+    21300406: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_208
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2290
+        width: 9
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2290
+        width: 8
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2281
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2289
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2284
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2282
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2284
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2284
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2284
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2200
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2202
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2202
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2202
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2202
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2202
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2202
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2203
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_17
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2203
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2203
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_19
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2203
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2137
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2137
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2137
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2137
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2137
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2137
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2056
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2058
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2055
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2055
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2055
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2055
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2056
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2058
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_34
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2058
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1985
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1983
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1983
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1983
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1983
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_40
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1983
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_41
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1983
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1983
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_43
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1983
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1905
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1902
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1902
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1902
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_48
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1902
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_49
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1903
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1897
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1805
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_52
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1805
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_53
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1805
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1805
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_55
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1811
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_56
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1810
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_57
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1732
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1733
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1731
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_60
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1732
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1740
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1736
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_63
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1739
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_64
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1743
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_65
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1739
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_66
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1739
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1662
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1664
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_69
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1664
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_70
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1664
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_71
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1664
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_72
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1664
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_73
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1665
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_74
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1662
+        width: 55
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_75
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1662
+        width: 56
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1574
+        width: 55
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_77
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1574
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.38, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_78
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1573
+        width: 86
+        height: 64
+      alignment: 9
+      pivot: {x: 0.15, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_79
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1573
+        width: 88
+        height: 64
+      alignment: 9
+      pivot: {x: 0.15, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_80
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1573
+        width: 93
+        height: 64
+      alignment: 9
+      pivot: {x: 0.15, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1573
+        width: 84
+        height: 51
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_82
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1573
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_83
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1504
+        width: 71
+        height: 48
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_84
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1504
+        width: 71
+        height: 48
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_85
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1504
+        width: 71
+        height: 48
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_86
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1504
+        width: 72
+        height: 48
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_87
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1504
+        width: 67
+        height: 49
+      alignment: 9
+      pivot: {x: 0.15, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1418
+        width: 51
+        height: 47
+      alignment: 9
+      pivot: {x: 0.13, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_92
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1418
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.13, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_93
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1418
+        width: 86
+        height: 53
+      alignment: 9
+      pivot: {x: 0.16, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1418
+        width: 110
+        height: 57
+      alignment: 9
+      pivot: {x: 0.32, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_95
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1418
+        width: 74
+        height: 57
+      alignment: 9
+      pivot: {x: 0.47, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_96
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1418
+        width: 72
+        height: 57
+      alignment: 9
+      pivot: {x: 0.47, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_97
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1418
+        width: 71
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_98
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1342
+        width: 71
+        height: 54
+      alignment: 9
+      pivot: {x: 0.47, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_99
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1343
+        width: 71
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_100
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1343
+        width: 72
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_101
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1342
+        width: 70
+        height: 50
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_102
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1342
+        width: 63
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_103
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1236
+        width: 52
+        height: 49
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_104
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1237
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_105
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1237
+        width: 81
+        height: 49
+      alignment: 9
+      pivot: {x: 0.28, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1237
+        width: 95
+        height: 85
+      alignment: 9
+      pivot: {x: 0.18, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_107
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1237
+        width: 92
+        height: 88
+      alignment: 9
+      pivot: {x: 0.16, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_108
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1237
+        width: 78
+        height: 88
+      alignment: 9
+      pivot: {x: 0.2, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_109
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1237
+        width: 61
+        height: 88
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_110
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1138
+        width: 49
+        height: 88
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1137
+        width: 58
+        height: 78
+      alignment: 9
+      pivot: {x: 0.25, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_112
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1137
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_113
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1137
+        width: 63
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_114
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1137
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_115
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1137
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_116
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1035
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_117
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1033
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_118
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1029
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_119
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1029
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_120
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1029
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_121
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 938
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_122
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 938
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_123
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 938
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_124
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 936
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_125
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 934
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_126
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 931
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_127
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 842
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_128
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 842
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_129
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 842
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_130
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_131
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 833
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_132
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 752
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_133
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 752
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_134
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 752
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_135
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 756
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_136
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 762
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_137
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 692
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_138
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 692
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_139
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 693
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_140
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 693
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_141
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 693
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_142
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 692
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_143
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 634
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_144
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 634
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_145
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 634
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_146
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 634
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_147
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 634
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_148
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 629
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_149
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 550
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 557
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_151
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 549
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 546
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 554
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_154
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 550
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_155
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 463
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_156
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 463
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_157
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 463
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_158
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 462
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_159
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 462
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_160
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 462
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_161
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 462
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_162
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 462
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_163
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 374
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_164
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 375
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_165
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 375
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_166
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 375
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_167
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 372
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_168
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 375
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 286
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_170
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 289
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_171
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 290
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_172
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 290
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_173
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 290
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_174
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 290
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_175
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 290
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_176
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 209
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_177
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 205
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_178
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 209
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_179
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 209
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_180
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 210
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_181
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 210
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_182
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 210
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_183
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 210
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_184
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 133
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_185
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 132
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_186
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 133
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_187
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 133
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_188
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 133
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_189
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 130
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_190
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 127
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_191
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_192
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 44
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_193
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_195
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 45
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_196
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 45
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_197
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 45
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_198
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 42
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_199
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 41
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_200
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 40
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_201
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 40
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_202
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 32
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_208
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4
+        width: 159
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_custom_sprite_sheet_v1_0_by_brongaa12-d5s3hk5_88
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2281
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
